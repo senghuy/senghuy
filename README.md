@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @senghuy
 - 👀 I’m interested in Software Engineering ^^
 - 🌱 I’m currently learning Kotlin and Jetpackcompose.
-- 💞️ I’m looking to collaborate on people who work on IT side.
+- 💞️ I’m looking to collaborate with people who work on IT side.
 - 📫 How to reach me ...
 
 <!---
